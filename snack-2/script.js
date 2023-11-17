@@ -2,13 +2,27 @@
 
 
 //generare una lista nome
-
-const listaNome = [];
+const chiediLista = parseInt(prompt('Chiedere nome e cognome'));
+const listaNome = ['gina',
+                'francesco',
+                'alessandro'];
 
 
 //generare la lista Cognome
 
-const listaCognome = [];
+const listaCognome = ['matto',
+                        'pazzo',
+                            'bravo'];
+
+
+while ( somma = listaCognome + listaNome){
+    const chiediLista = parseInt(prompt('Chiedere nome e cognome'));
+    if ( !NaN (chiediLista)){
+        somma += chiediLista;
+        array.push(false);
+    }
+}
+
 
 
 
