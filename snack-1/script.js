@@ -2,5 +2,10 @@
 
 const chiediNumeri = array [''];
 
+while (i < 50 ){
+
+    richiestaUtente += 'il numero è' + i;
+}
+
 const richiestaUtente = prompt('Scrivi un numero qualsiasi');
 console.log(richiestaUtente);
