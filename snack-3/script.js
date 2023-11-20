@@ -4,5 +4,15 @@
 
 //inseriamo la fuction con due parole
 
-function product (parolaLunga,parolaPiccola);
 
+
+const primaParola = prompt ('Che tipo di parola');
+const secondaParola = prompt ('che tipo di parola');
+
+fuction lalungezzadellaParola (primaParola,secondaParola){
+    if (primaParola.length === secondaParola.length){
+        return true;
+    } else {
+        return false;
+    }
+}
