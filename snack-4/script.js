@@ -8,3 +8,11 @@
 
 //nella console funziona nella richiesta dell'utente.
 
+//inserire una function per generare un numero 
+
+function generateSquare(){
+    //creiamo un elemento div
+    //assegniamo delle classi al div
+    //popoliamo il div
+    //return il div appena creato
+}
