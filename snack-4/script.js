@@ -5,3 +5,5 @@
 
     const chiediNumero = parseInt(prompt('inserisci un numero'));
     console.log(chiediNumero);
+
+//nella console funziona nella richiesta dell'utente.
