@@ -6,6 +6,7 @@
     const chiediNumero = parseInt(prompt('inserisci un numero'));
     console.log(chiediNumero);
 
+        const wrapper = document.querySelector
 //nella console funziona nella richiesta dell'utente.
 
 //inserire una function per generare un numero 
