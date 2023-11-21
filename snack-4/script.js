@@ -12,7 +12,11 @@
 
 function generateSquare(){
     //creiamo un elemento div
+    const divElement = document.createElement('div';)
     //assegniamo delle classi al div
+    divElement.classList.add('square');
     //popoliamo il div
+
     //return il div appena creato
+    return divElement;
 }
