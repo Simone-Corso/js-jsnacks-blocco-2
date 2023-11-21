@@ -7,3 +7,4 @@
     console.log(chiediNumero);
 
 //nella console funziona nella richiesta dell'utente.
+
